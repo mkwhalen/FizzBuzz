@@ -44,8 +44,6 @@ namespace FizzLibrary
                 Console.WriteLine(value);
             }
 
-            Console.WriteLine(result[15]);
-
             return result;
 
         }
